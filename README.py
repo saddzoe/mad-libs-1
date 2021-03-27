@@ -1,5 +1,5 @@
 # mad-libs-1
-# This is another madlibs game I created using python
+# This is another madlibs game I created using python from codecademy
 
 STORY = "This morning %s woke up feeling %s. 'It is going to be a %s day!' Outside, a bunch of %ss were protesting to keep %s in stores. They began to %s to the rhythm of the %s, which made all the %ss very %s. Concerned, %s texted %s, who flew %s to %s and dropped %s in a puddle of frozen %s. %s woke up in the year %s, in a world where %ss ruled the world."
 
